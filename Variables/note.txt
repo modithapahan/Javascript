@@ -1,0 +1,20 @@
+-VARIABLES-
+
+var
+let
+const
+
+var number;
+let number;
+const number;
+
+-DATA TYPES-
+
+1. primitive data types- String
+                         Number
+                         Boolean
+
+2.composite data types- Object
+                        Array
+                        Function
+
